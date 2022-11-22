@@ -24,10 +24,10 @@ h1
 #box 
 {
     width: 100%;
-    background-color: white;
+    background-color: #222222;
     align-content: center;
     border-radius: 10px;
-    box-shadow: 1px 2px 6px 2px rgb(219, 219, 219);
+    padding: 8px;
 }
 #box:hover
 {
@@ -58,14 +58,16 @@ h1
 h3
 {
     font-size: 16px;
+    color: white;
 }
 h4
 {
     font-weight: 100;
+    color: white;
 }
 h2
 {
-    color: rgb(3, 94, 94);
+    color: #038A8A;
 }
 
 /* ----------------------------- MEDIA QUERY --------------------------- */
